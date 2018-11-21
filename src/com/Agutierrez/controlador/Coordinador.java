@@ -3,16 +3,16 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mcarrera.controlador;
+package com.Agutierrez.controlador;
 
-import com.mcarrera.modelo.Empleado;
-import com.mcarrera.vista.EditarDatos;
-import com.mcarrera.vista.Login;
+import com.Agutierrez.modelo.Empleado;
+import com.Agutierrez.vista.EditarDatos;
+import com.Agutierrez.vista.Login;
 import java.util.ArrayList;
 
 /**
  *
- * @author Flia. Carrera
+ * @author Elizabeth
  */
 public class Coordinador {
         Login login = new Login(this);   

@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mcarrera.modelo;
+package com.Agutierrez.modelo;
 
 /**
  *
- * @author Flia. Carrera
+ * @author Elizabeth
  */
 public class Empleado extends Persona{
     private double salario;

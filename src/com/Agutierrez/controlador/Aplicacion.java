@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mcarrera.controlador;
+package com.Agutierrez.controlador;
 
 /**
  *
- * @author Flia. Carrera
+ * @author Elizabeth
  */
 public class Aplicacion {
     public static void main(String[] args) {

@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mcarrera.vista;
+package com.Agutierrez.vista;
 
-import com.mcarrera.controlador.Coordinador;
-import com.mcarrera.modelo.Empleado;
+import com.Agutierrez.controlador.Coordinador;
+import com.Agutierrez.modelo.Empleado;
 
 /**
  *
